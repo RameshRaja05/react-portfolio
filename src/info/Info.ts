@@ -72,10 +72,7 @@ export const info = {
     // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
     // Just change the links so that they lead to your social profiles.
   ],
-  bio: `Hi, I'm Ramesh Raja, an aspiring full stack web developer with a curious mind and a passion for creating a niche and cutting edge websites. I've been learning how to create full stack websites for over several months, and I'm always looking for new ways to use my skills to make a difference. I'm skilled in both front-end and back-end, and I'm always up for a challenge.
-    I'm confident that I can help you achieve your goals. I'm a creative thinker with a strong attention to detail. I'm also a team player and I'm always willing to go the extra mile.
-    I'm also a flexible person who is able to adapt to change. I'm good at listening to new ideas and perspectives, and I'm always willing to try new things.
-    I invite you to explore my portfolio to see more of my work. I hope you'll contact me to discuss how I can help you with your next project.`,
+  bio: `Hi, I'm Ramesh Raja, Dedicated and aspiring Full Stack Web Developer with a deep passion for creating innovative websites. I have been honing my skills in front-end and back-end development, constantly seeking opportunities to learn and grow.  I approach problem-solving with diligence and value collaboration with others. With an open mind and eagerness to embrace new ideas, I'm ready to contribute to your next project. You can find examples of my work at portfolio section. I fancy listening classic and pop music at Night. I often use a headphone 🙂`,
   skills: {
     proficientWith: [
       "javascript",
@@ -144,3 +141,5 @@ export const info = {
     },
   ],
 };
+
+"Dedicated and aspiring Full Stack Web Developer with a deep passion for creating innovative websites. I have been honing my skills in front-end and back-end development, constantly seeking opportunities to learn and grow.  I approach problem-solving with diligence and value collaboration with others. With an open mind and eagerness to embrace new ideas, I'm ready to contribute to your next project. You can find examples of my work at portfolio section."
