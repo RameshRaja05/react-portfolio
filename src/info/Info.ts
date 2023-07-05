@@ -72,7 +72,7 @@ export const info = {
     // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
     // Just change the links so that they lead to your social profiles.
   ],
-  bio: `Hi, I'm Ramesh Raja, Dedicated and aspiring Full Stack Web Developer with a deep passion for creating innovative websites. I have been honing my skills in front-end and back-end development, constantly seeking opportunities to learn and grow.  I approach problem-solving with diligence and value collaboration with others. With an open mind and eagerness to embrace new ideas, I'm ready to contribute to your next project. You can find examples of my work at portfolio section. I fancy listening classic and pop music at Night. I often use a headphone 🙂`,
+  bio: `Hi, I'm Ramesh Raja, Dedicated and aspiring Full Stack Web Developer with a deep passion for creating innovative websites. I have been honing my skills in front-end and back-end development, constantly seeking opportunities to learn and grow.  I approach problem-solving with diligence and value collaboration with others. With an open mind and eagerness to embrace new ideas, I'm ready to contribute to your next project. You can find examples of my work at portfolio section. I fancy listening classic and pop music at Night. I often use a headphone 🎧`,
   skills: {
     proficientWith: [
       "javascript",
